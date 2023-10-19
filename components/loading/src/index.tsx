@@ -1,4 +1,4 @@
-import { tag, WeElement, h } from 'omi'
+import { tag, WeElement, h, OmiProps } from 'omi'
 import * as css from './index.scss'
 
 interface Props {
@@ -19,7 +19,7 @@ export default class Loading extends WeElement<Props>{
     color: String
   }
 
-  render(props) {
+  render(props: OmiProps<Props>) {
     return (
       <div class="o-root o-colorPrimary o-indeterminate" role="progressbar" style={`width: ${props.size}px; height: ${props.size}px;${props.color ? `color:${props.color};` : ''}`}>
         <svg class="o-svg" viewBox="22 22 44 44">
