@@ -1,10 +1,10 @@
 ﻿English | [简体中文](./README.CN.md) 
 
-# omi-router
+# rspa
 
-omi-router is a router plugin of [Omi](https://tencent.github.io/omi/), and it is lightweight, easy and powerful to use. It is a solution to build Omi's SPA(Single Page Application).
+rspa is a router plugin of [Omi](https://tencent.github.io/omi/), and it is lightweight, easy and powerful to use. It is a solution to build Omi's SPA(Single Page Application).
 
-[→ DEMO](https://tencent.github.io/omi/packages/omi-router/examples/spa/build/)
+[→ DEMO](https://tencent.github.io/omi/packages/rspa/examples/spa/build/)
 
 The advantage of SPA is very clear.
 
@@ -23,13 +23,13 @@ Yes, there are many advantages. Let's do it.
 ### NPM
 
 ```js
-npm install omi-router
+npm install rspa
 ```
 
 ## Usage
 
 ```js
-import { route } from 'omi-router'
+import { route } from 'rspa'
 import { define, WeElement, render } from 'omi'
 import './about'
 import './home'
@@ -139,8 +139,8 @@ route.to('/about', { a: 1 })
 
 ## Links
 
-* [DEMO](https://tencent.github.io/omi/packages/omi-router/examples/simple/)
-* [Source](https://github.com/Tencent/omi/tree/master/packages/omi-router/examples/simple)
+* [DEMO](https://tencent.github.io/omi/packages/rspa/examples/simple/)
+* [Source](https://github.com/Tencent/omi/tree/master/packages/rspa/examples/simple)
 
 ## License
 This content is released under the [MIT](http://opensource.org/licenses/MIT) License.

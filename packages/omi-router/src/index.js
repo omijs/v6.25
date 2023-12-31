@@ -517,7 +517,7 @@ function pathToRegexp (path, keys, options) {
 
 /***/ }),
 
-/***/ "./node_modules/_webpack@4.46.0@webpack/buildin/global.js":
+/***/ "./node_modules/_webpack@4.47.0@webpack/buildin/global.js":
 /*!***********************************!*\
   !*** (webpack)/buildin/global.js ***!
   \***********************************/
@@ -558,8 +558,8 @@ module.exports = g;
 "use strict";
 /* WEBPACK VAR INJECTION */(function(global) {
 /*!
- *  omi-router v3.0.1 by dntzhang
- *  Router for Omi.
+ *  rspa v0.0.1 by dntzhang
+ *  Router for the web.
  *  Github: https://github.com/Tencent/omi
  *  MIT Licensed.
  */
@@ -673,7 +673,7 @@ function getUrlParams(url) {
     return args;
 }
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node_modules/_webpack@4.46.0@webpack/buildin/global.js */ "./node_modules/_webpack@4.46.0@webpack/buildin/global.js")))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node_modules/_webpack@4.47.0@webpack/buildin/global.js */ "./node_modules/_webpack@4.47.0@webpack/buildin/global.js")))
 
 /***/ })
 

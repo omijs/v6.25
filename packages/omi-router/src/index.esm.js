@@ -1,5 +1,5 @@
 /**
- * omi-router v3.0.4 http://omijs.org
+ * rspa v0.0.1 http://omijs.org
  * Front End Cross-Frameworks Framework.
  * By dntzhang https://github.com/dntzhang
  * Github: https://github.com/Tencent/omi
@@ -436,8 +436,8 @@ var p2r = /*#__PURE__*/Object.freeze({
 });
 
 /*!
- *  omi-router v3.0.1 by dntzhang
- *  Router for Omi.
+ *  rspa v0.0.1 by dntzhang
+ *  Router for the web.
  *  Github: https://github.com/Tencent/omi
  *  MIT Licensed.
  */

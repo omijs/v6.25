@@ -1,6 +1,6 @@
 /*!
- *  omi-router v3.0.5 by dntzhang
- *  Router for Omi.
+ *  rspa v0.0.1 by dntzhang
+ *  Router for the web.
  *  Github: https://github.com/Tencent/omi
  *  MIT Licensed.
  */

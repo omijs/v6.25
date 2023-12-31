@@ -1,10 +1,10 @@
 ﻿[English](./README.md) | 简体中文 
 
-# omi-router
+# rspa
 
-omi-router 是 [Omi](https://tencent.github.io/omi/) 专属的 router 插件，文件尺寸轻量，使用简便，功能强大。用于 Omi 制作 Web 单页应用的首选解决方案。
+rspa 是 [Omi](https://tencent.github.io/omi/) 专属的 router 插件，文件尺寸轻量，使用简便，功能强大。用于 Omi 制作 Web 单页应用的首选解决方案。
 
-[→ DEMO](https://tencent.github.io/omi/packages/omi-router/examples/spa/build/)
+[→ DEMO](https://tencent.github.io/omi/packages/rspa/examples/spa/build/)
 
 单页的好处也是非常明显:
 
@@ -22,13 +22,13 @@ omi-router 是 [Omi](https://tencent.github.io/omi/) 专属的 router 插件，�
 ### NPM
 
 ```js
-npm install omi-router
+npm install rspa
 ```
 
 ## 开始
 
 ```js
-import { route } from 'omi-router'
+import { route } from 'rspa'
 import { define, WeElement, render } from 'omi'
 import './about'
 import './home'
@@ -138,8 +138,8 @@ route.to('/about', { a: 1 })
 
 ### 地址
 
-* [在线演示地址](https://tencent.github.io/omi/packages/omi-router/examples/simple/)
-* [源码地址](https://github.com/Tencent/omi/tree/master/packages/omi-router/examples/simple)
+* [在线演示地址](https://tencent.github.io/omi/packages/rspa/examples/simple/)
+* [源码地址](https://github.com/Tencent/omi/tree/master/packages/rspa/examples/simple)
 
 ## License
 This content is released under the [MIT](http://opensource.org/licenses/MIT) License.

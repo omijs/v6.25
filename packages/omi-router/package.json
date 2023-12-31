@@ -1,7 +1,7 @@
 {
-  "name": "omi-router",
-  "version": "3.0.5",
-  "description": "Router for Omi",
+  "name": "rspa",
+  "version": "0.0.1",
+  "description": "Router for the web.",
   "main": "src/index.js",
   "module": "src/index.esm.js",
   "types": "src/index.d.ts",
